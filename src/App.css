@@ -1,0 +1,41 @@
+body, html {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden; 
+}
+
+.App {
+  border-radius: 5px;
+  background-color: #d3d3d3;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  width: 100%;
+  max-width: 414px; 
+  margin: 0 auto;
+  position: relative; 
+}
+
+.story-container {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  position: absolute; 
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+
+.story-nav {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  color: #000;
+  cursor: pointer;
+}

@@ -1,0 +1,27 @@
+[
+    {
+      "id": "1",
+      "image": "https://picsum.photos/id/237/300/500",
+      "thumbnail": "https://picsum.photos/id/237/100/100",
+      "title": "Story 1"
+    },
+    {
+      "id": "2",
+      "image": "https://picsum.photos/id/238/300/500",
+      "thumbnail": "https://picsum.photos/id/238/100/100",
+      "title": "Story 2"
+    },
+    {
+      "id": "3",
+      "image": "https://picsum.photos/id/239/300/500",
+      "thumbnail": "https://picsum.photos/id/239/100/100",
+      "title": "Story 3"
+    },
+    {
+      "id": "4",
+      "image": "https://picsum.photos/id/240/300/500",
+      "thumbnail": "https://picsum.photos/id/240/100/100",
+      "title": "Story 4"
+    }
+  ]
+  
